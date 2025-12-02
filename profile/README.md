@@ -1,4 +1,4 @@
-# ComRegIreland
+# ComReg Data Analytics
 
 <img align="right" src="https://comreg.ie/media/2025/04/logo-ComReg.svg" width="250"/>
 
